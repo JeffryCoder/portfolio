@@ -4,10 +4,20 @@ body {
   color: green;
 }
 
+hr {
+
+  background-color: green;
+
+}
 
 .certificates{
 
   height: 400px;
 
 
+}
+
+.certificatesInfotep{
+
+  height: 700px;
 }
