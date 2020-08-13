@@ -71,3 +71,7 @@ div li{
   margin-right: 50px;
 }
 
+div ul li{
+  text-decoration: none;
+}
+
