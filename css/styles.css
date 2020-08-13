@@ -4,6 +4,11 @@
   font-family: 'Source Sans Pro', sans-serif;
   color:#31a032;
 }
+#contacMe{
+  
+  color:white;
+  border-radius: 2px;
+}
 
 #navbar{
   position: fixed;
@@ -60,3 +65,9 @@ footer{
   background-color:black;
   margin-top:5%;
 }
+
+div li{
+  display:inline;
+  margin-right: 50px;
+}
+
