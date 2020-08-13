@@ -12,12 +12,15 @@
 
 #navbar{
   position: fixed;
-  color:white;
-  background-color: #e0e0e2;
+  background: linear-gradient(45deg,#156b12,#6b1241,#3b126b );
   width: 100%;
   left:0%;
   top:0%;
   font-size:27px;
+}
+
+#navbar li a{
+  color: white;
 }
 
 nav li{
