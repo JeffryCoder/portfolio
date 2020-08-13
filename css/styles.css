@@ -1,10 +1,25 @@
 :root {
   text-align: center;
+  color:#31a032;
+}
+
+#navbar{
+  position: fixed;
+  background-color: #e0e0e2;
+  width: 100%;
+  left:0%;
+  top:0%;
+}
+
+nav li{
+  display:inline;
+  margin-right: 20px;
+  padding: 5px 0px 5px 30px;
 }
 
 body {
-  background-color: black;
-  color: green;
+  background-color:black;
+  
 }
 
 hr {
@@ -23,4 +38,9 @@ hr {
 .certificatesInfotep{
 
   height: 700px;
+}
+
+
+a {
+  text-decoration:none;
 }
