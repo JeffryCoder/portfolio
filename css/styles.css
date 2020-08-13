@@ -1,4 +1,5 @@
 :root {
+  background-color: black;
   text-align: center;
   margin-top: 2%;
   font-family: 'Source Sans Pro', sans-serif;
@@ -17,6 +18,7 @@
   left:0%;
   top:0%;
   font-size:27px;
+  z-index: 1;
 }
 
 #navbar li a{
@@ -29,14 +31,31 @@ nav li{
   padding: 5px 0px 5px 30px;
 }
 
-body {
-  background-color:black;
+.tarjetaCertificacion{
+
+  position: relative;
+  padding-top: 10px;
   
+  width: 60%;
+  height: 60%;
+  margin-top:3000px;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.116); 
+  border-radius: 5%;
+  margin-bottom: 20px;
+  
+
 }
+
+.imagenCertificado{
+  
+  width:90%;
+  height: 50%;
+}
+
 
 hr {
   width: 40%;
-  background-color: green;
 
 }
 
@@ -47,10 +66,7 @@ hr {
 
 }
 
-.certificatesInfotep{
 
-  height: 700px;
-}
 
 
 a {
