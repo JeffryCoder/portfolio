@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jeffrycoder.com
+Token: 4376eafff800ba9478457d51047e9dd8514289c8d7451ff3a36891a484259ec7
