@@ -12,6 +12,7 @@
 }
 
 #navbar{
+  font-family: 'Montserrat', sans-serif;
   position: fixed;
   background: linear-gradient(45deg,#156b12,#6b1241,#3b126b );
   width: 100%;
