@@ -1,9 +1,9 @@
 :root {
-  background-color: black;
+  background-color: rgb(255, 255, 255);
   text-align: center;
   margin-top: 2%;
   font-family: 'Klee One', sans-serif;
-  color:#31a032;
+  color:#000000;
   font-weight: 400;
 }
 #contacMe{
@@ -16,7 +16,7 @@
   /* font-family: 'Montserrat', sans-serif; */
   /* font-family: 'Klee One', sans-serif; */
   position: fixed;
-  background: linear-gradient(45deg,#163e14,#fa2b99,#790df5 );
+  background: linear-gradient(45deg,#7712f2,#070405,#7a0ff5 );
   width: 100%;
   left:0%;
   top:1%;
@@ -67,11 +67,7 @@ hr {
 
   height: 400px;
 
-
 }
-
-
-
 
 a {
   text-decoration:none;
@@ -85,8 +81,9 @@ footer{
   width:100%;
   left:0%;
   bottom:0%;
-  background-color:black;
+  background: linear-gradient(45deg,#7712f2,#070405,#7a0ff5 );
   margin-top:5%;
+  color: rgb(255, 255, 255);
 }
 
 div li{
