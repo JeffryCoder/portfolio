@@ -13,12 +13,13 @@
 }
 
 #navbar{
-  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Montserrat', sans-serif; */
+  /* font-family: 'Klee One', sans-serif; */
   position: fixed;
-  background: linear-gradient(45deg,#156b12,#6b1241,#3b126b );
+  background: linear-gradient(45deg,#163e14,#fa2b99,#790df5 );
   width: 100%;
   left:0%;
-  top:0%;
+  top:1%;
   z-index: 1;
   font-weight: 700;
   font-size: 25px;
